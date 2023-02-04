@@ -71,11 +71,11 @@ button a:hover{
     font-size: large;
     transition: 0.1s;
 }
-.first-b {
+.navbar .first-b {
     display: flex;
-    justify-content: space-around;
-    align-self: center;
-    margin-left: 41rem;
+    justify-content: center;
+    align-items: center;
+    margin-left: 35rem;
     
 }
 .first-b a{
